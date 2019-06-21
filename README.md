@@ -7,6 +7,8 @@ Question
 Answer
 Image Name
 
+The outputs in the Python Notebook are the results of some subsamples taken from our Created Dataset. 
+
 Feel Free to raise issues if found.
 
 Thank You
